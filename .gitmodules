@@ -1,0 +1,3 @@
+[submodule "fix-yahoo-finance"]
+	path = fix-yahoo-finance
+	url = https://github.com/ranaroussi/fix-yahoo-finance.git
